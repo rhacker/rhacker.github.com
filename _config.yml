@@ -56,6 +56,8 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
+#
+sidebar: collapse
 
 # Github repositories
 github_user: rhacker
