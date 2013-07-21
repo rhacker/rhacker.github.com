@@ -1,5 +1,8 @@
-<p>
-  I'm also on <a href="https://github.com/rhacker" target="_blank">Github</a>,
-  <a href="http://www.twitter.com/nXqd" target="_blank">Twitter</a> and <a
-    href="http://www.flickr.com/photos/nxqd/" target="_blank">Flickr</a>
-</p>
+Copyright &copy; {{ site.time | date: "%Y" }}
+{% if site.author %}
+    {{ site.author }}
+{% else %}
+    {{ site.title }}
+{% endif %}
+<br>
+Powered by Octopress.
