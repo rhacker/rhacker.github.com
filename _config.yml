@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://rhacker.github.com
+url: http://rhacker.github.io
 title: Little thinks big
 subtitle: living is experiencing.
 author: nXqd
@@ -95,7 +95,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: "UA-38702111-1"
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
