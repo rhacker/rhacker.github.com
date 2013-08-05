@@ -15,4 +15,4 @@ I am a generalist engineer, a creator, code breaker.
 
 I will be an entrepreneur, a motorbike breaker, or just a happy man.
 
-I have passion in learning and crafting and talking things. In my free time, I want to spend times hanging out with loved ones, always with the camera on my hand [to capture moments](http://www.flickr.com/photos/nxqd/)  in my point of view, and I read at least one book per 2 weeks.
+I have passion in learning and crafting and talking things. In my free time, I want to spend times hanging out with loved ones, always with the camera on my hand [to capture moments](http://www.flickr.com/photos/nxqd/)  in my point of view. I belong to nowhere, I love traveling, being freedom and enjoy reading books on the way.
