@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: vim | Little thinks big]]></title>
+  <link href="http://rhacker.github.io/blog/categories/vim/atom.xml" rel="self"/>
+  <link href="http://rhacker.github.io/"/>
+  <updated>2013-08-07T09:10:46+02:00</updated>
+  <id>http://rhacker.github.io/</id>
+  <author>
+    <name><![CDATA[nXqd]]></name>
+    <email><![CDATA[nxqd.inbox@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Vim - precision editing at the speed of thought]]></title>
+    <link href="http://rhacker.github.io/blog/2013/02/14/vim-precision-editing-at-the-speed-of-thought/"/>
+    <updated>2013-02-14T00:12:00+01:00</updated>
+    <id>http://rhacker.github.io/blog/2013/02/14/vim-precision-editing-at-the-speed-of-thought</id>
+    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/53144573 "></iframe></div></p>
+]]></content>
+  </entry>
+  
+</feed>

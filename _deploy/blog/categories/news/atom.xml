@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: news | Little thinks big]]></title>
+  <link href="http://rhacker.github.io/blog/categories/news/atom.xml" rel="self"/>
+  <link href="http://rhacker.github.io/"/>
+  <updated>2013-08-07T09:10:46+02:00</updated>
+  <id>http://rhacker.github.io/</id>
+  <author>
+    <name><![CDATA[nXqd]]></name>
+    <email><![CDATA[nxqd.inbox@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The world is talking about recruiting]]></title>
+    <link href="http://rhacker.github.io/blog/2013/02/21/the-world-is-talking-about-recruiting/"/>
+    <updated>2013-02-21T13:55:00+01:00</updated>
+    <id>http://rhacker.github.io/blog/2013/02/21/the-world-is-talking-about-recruiting</id>
+    <content type="html"><![CDATA[<p>Since the world is changing a lot these days: Real hackers want to be
+entrepreneurs. That means the labour market will be lack of
+quality workers. So, companies have to change the way its work as well as
+recruiting to get the best guys out there to get shit done the way  they want.</p>
+
+<p><a href="http://firstround.com/article/How-Stripe-built-one-of-Silicon-Valleys-best-engineering-teams">Stripe tells their story about forming one of the best engineering team on Silicon Valley.</a></p>
+
+<p><a href="http://zachholman.com/posts/scaling-github-employees/">Github keep recruiting remote workers and it scales perfectly of their working system.</a></p>
+
+<p><a href="http://37signals.com/svn/posts/3435-remote-office-not-required-the-new-book-by-37signals-coming-fall-2013">37signals is writing the next great book about Remote working and I cannot wait to get it.</a></p>
+]]></content>
+  </entry>
+  
+</feed>
