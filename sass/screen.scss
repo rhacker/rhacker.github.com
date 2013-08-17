@@ -1,7 +1,9 @@
 @import "compass";
 
 @import "custom/color";
+@import "custom/fonts";
 
-@import "base";
+@import "foundation/normalize";
+@import "foundation/foundation";
+
 @import "parts";
-@import "plugins";

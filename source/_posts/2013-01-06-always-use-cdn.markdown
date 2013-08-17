@@ -3,13 +3,13 @@ layout: post
 title: "Always use CDN"
 date: 2013-01-06 21:17
 comments: false
-categories:
+categories: performance
 ---
 
 Instead of having your own version of bootstrap or jquery on your localhost, you
 should use provided Content Delivery Network - CDN instead.
 
-###Why ?
+###### Why ?
 1. Boost your website speed. If we have same site A and B using the same jquery
 from Google CDN, so if they visit one of their site, the browser will not
 download the lib again in the other since it is cached by browser. And CDN like
@@ -22,7 +22,7 @@ You do not have to download libs everytime you bootstrap your project. Just make
 a good template and then start making thing. If you work mostly with angularJS
 or backbone, just create a template then `git clone`. Bump, done !
 
-###Disadvantage
+###### Disadvantage
 What if the CDN server is down, you are talking about Google and big guy like
 NetDNA. Their down time is really low which is close to 1% or 0%:
 
@@ -41,7 +41,7 @@ do is copy and paste.
 Beside using the library, you can setup your own CDN to handle all static
 files.
 
-###Popular CDN
+###### Popular CDN
 Google CDN: https://developers.google.com/speed/libraries/devguide
 
 bootstrapcdn: http://www.bootstrapcdn.com/

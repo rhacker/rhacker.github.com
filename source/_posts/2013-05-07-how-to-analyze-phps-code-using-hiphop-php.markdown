@@ -12,12 +12,11 @@ a well tested and testable code. But what really interests me is how we can
 analyze minor bugs like syntax and typo errors fast. **@rlerdorf** - one of the
 contributor of Mageplus has a simple command from hiphop-php to save the world:
 
-```
+<pre><code class="language-javascript">
 hhvm --hphp -t analyze
-```
+</code></pre>
 
-Example output:
-```
+<pre><code class="language-javascript">
 --------------------------------
 File       : lib/Mage/Connect/Loader/Ftp.php:98
 Reason     : UseUndeclaredVariable
@@ -37,7 +36,7 @@ Snippet    : $pID
 Line       : } elseif ($aId != 0 && $pID == $eInfo[$this->_pid]) { // if we have
 after ID
 }
-```
+</code></pre>
 
 Since I really want to try to install but it comes out that [ hiphop-php is quite hard to install
 ](http://stackoverflow.com/questions/8132016/how-to-install-hiphop-for-php "How

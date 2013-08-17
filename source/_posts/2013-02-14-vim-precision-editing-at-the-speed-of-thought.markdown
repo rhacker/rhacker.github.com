@@ -6,4 +6,4 @@ comments: true
 categories: vim
 ---
 
-{% vimeo 53144573 %}
+<div class="flex-video widescreen vimeo"><iframe src="http://player.vimeo.com/video/53144573 "></iframe></div>

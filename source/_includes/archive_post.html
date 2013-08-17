@@ -5,10 +5,10 @@
 	{% unless forloop.first %}
 		</section>
 	{% endunless %}
-	<section class="archives"><h1 class="year">{{ date | date: "%Y" }}</h1>
+	<section class="archives"><h2>{{ date | date: "%Y" }}</h1>
 {% endunless %}
 <article>
-	<h2 class="title"><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h2>
+	<h3><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h3>
 	<div class="meta">
 		<span class="date">{{ date | date: "%b %e" }}</span>
 		<span class="tags">{% include post/categories.html %}</span>
