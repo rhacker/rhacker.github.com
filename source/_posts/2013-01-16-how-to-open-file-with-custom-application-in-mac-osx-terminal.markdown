@@ -11,13 +11,13 @@ command, but it does have something more interesting which is -a flag ( think a
 as application ). Now I want to open video file with my MplayerX application
 instead of Quicktime, I just do this:
 
-```sh
+<pre><code class="language-javascript">
 open -a MpalyerX <video-file-path>
-```
+</code></pre>
 
 For the sake of my laziness, I create a simple alias for it:
 
-```sh
+<pre><code class="language-javascript">
 mp() { open -a MplayerX $1 } # I'm zsh user
 mp <video-file-path>
-```
+</code></pre>

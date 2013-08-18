@@ -1,4 +1,6 @@
 # Require any additional compass plugins here.
+require "zurb-foundation"
+require 'modular-scale'
 project_type = :stand_alone
 
 # Publishing paths
