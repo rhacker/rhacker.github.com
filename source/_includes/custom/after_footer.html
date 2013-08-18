@@ -1,10 +1,21 @@
+<script type="text/javascript" src="//cdn.jsdelivr.net/flexslider/2.1/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/prism/0.1/prism.full.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.sidr/1.1.1/jquery.sidr.js"></script>
+
 <script>
-  $(window).load(function() {
+  $(document).ready(function() {
     $('.flexslider').flexslider({
       controlNav: false
     });
+
+    $('#site-logo').sidr();
+
+    $('html').click(function() {
+      $.sidr('close', 'sidr');
+    });
+
+    $('#sidr').click(function(event){
+      event.stopPropagation();
+    });
   });
 </script>
-
-<script type="text/javascript" src="//cdn.jsdelivr.net/flexslider/2.1/jquery.flexslider-min.js"></script>
-<script type="text/javascript" src="//cdn.jsdelivr.net/prism/0.1/prism.full.min.js"></script>

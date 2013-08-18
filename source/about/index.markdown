@@ -7,12 +7,11 @@ sharing: true
 footer: true
 ---
 
-**About me**
-
-I was a PC breaker, addicted gamer and a baby boy who always wanted his mother.
-
-I am a generalist engineer, a creator, code breaker.
-
-I will be an entrepreneur, a motorbike breaker, or just a happy man.
-
-I have passion in learning and crafting and talking things. In my free time, I want to spend times hanging out with loved ones, always with the camera on my hand [to capture moments](http://www.flickr.com/photos/nxqd/)  in my point of view. I belong to nowhere, I love traveling, being freedom and enjoy reading books on the way.
+<article class="post page-about">
+  <div class="content">
+  <p class="my-name">Dzung Quang</p>
+  <p>Dzung is an adventurous man, he lives in Denmark but he is from Vietnam. He has a great passion on technologies, he enjoys hacking on anything IT related. And he has a big interest on building products, and growing startups. Now, he is working on turning ton of ideas into realities.
+  </p>
+  <p>If you want to get in touch, send <a href="mailto:nxqd.inbox@gmail.com">an email</a>.</p>
+  </div>
+</article>

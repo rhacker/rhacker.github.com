@@ -20,7 +20,6 @@ footer: true
       <span class="location">Ho Chi Minh, VietNam</span>
       <div class="meta">
       <strong class="type">Full-time</strong>
-      <span class="new">New</span>
       </div>
       </span>
     </a>

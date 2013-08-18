@@ -1,6 +1,15 @@
 article{
   padding: 0;
   overflow: hidden;
+  border-bottom: 1px solid #f2f2f0;
+
+  &.page-about {
+    .my-name {
+      font-size: 150%;
+      border-left: 5px solid #eee;
+      padding-left: 5px;
+    }
+  }
 
   & > .content {
     position: relative;
@@ -32,9 +41,9 @@ article{
       & > .meta.date {
         float: right;
         color: #B0B8BD;
-        margin-top: 12px;
+        margin-top: 6px;
         text-transform: uppercase;
-        font-size: ms(2);
+        font-size: 80%;
       }
     }
   }

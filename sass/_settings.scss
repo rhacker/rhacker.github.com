@@ -65,7 +65,7 @@ $default-float: left;
 
 // $body-bg: #fff;
 // $body-font-color: #222;
-$body-font-family: Lato, "Helvetica", Helvetica, Arial, sans-serif;
+$body-font-family: Lato, sans-serif;
 // $body-font-weight: normal;
 // $body-font-style: normal;
 
@@ -79,10 +79,10 @@ $body-font-family: Lato, "Helvetica", Helvetica, Arial, sans-serif;
 
 // Colors
 
-// $primary-color: #2ba6cb;
-// $secondary-color: #e9e9e9;
-// $alert-color: #c60f13;
-// $success-color: #5da423;
+$primary-color: #2ba6cb;
+$secondary-color: #e9e9e9;
+$alert-color: #c60f13;
+$success-color: #5da423;
 
 // Make sure border radius matches unless we want it different.
 
@@ -217,9 +217,9 @@ $body-font-family: Lato, "Helvetica", Helvetica, Arial, sans-serif;
 
 // Style <code> tags
 
-// $code-color: darken($alert-color, 15%);
-// $code-font-family: Consolas, 'Liberation Mono', Courier, monospace;
-// $code-font-weight: bold;
+$code-color: darken($alert-color, 15%);
+$code-font-family: Consolas, 'Liberation Mono', Courier, monospace;
+$code-font-weight: bold;
 
 // Style anchors
 

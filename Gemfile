@@ -17,3 +17,4 @@ end
 
 gem 'sinatra', '~> 1.3.3'
 gem 'zurb-foundation'
+gem 'modular-scale'

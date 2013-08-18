@@ -6,10 +6,11 @@ comments: true
 categories: lifehack
 ---
 
+<img src="http://i.imgur.com/JXzbUup.jpg" alt="Dzung" />
 
 **Location:** Odense, Denmark
 
-**Current gig:** Working for Novitas - an ERP consulting firm in Denmark. Currently, I'm working on their latest starup. All the while also working on a ton of ideas and contributing to lovely open source world.
+**Current gig:** Working for Novitas - an ERP consulting firm in Denmark. Currently, I'm working on their latest starup. All the while also working on a ton of ideas and contributing to lovely open source world on <a href="https://github.com/rhacker" target="_blank">Github</a>.
 
 **Current mobile devices:** HTC One.
 
@@ -19,7 +20,7 @@ categories: lifehack
 
 **What apps/software/tools can't you live without? Doesn't have to be tech.**
 
-A bottle of water - seriously I drink a lot. On the software side: Vim (I do write everything in Vim), for RSS Reader I use Feedly and I have no special need for reading PDF files other than the default one on Mac OSX. And sure, Terminal where I do most of things.
+A bottle of water - seriously I drink a lot. On the software side: Vim (I do write everything in Vim), for RSS Reader I use <a href="http://www.feedly.com/" target="_blank">Feedly</a> and I have no special need for reading PDF files other than the default one on Mac OSX. And sure, Terminal where I do most of developing works.
 
 **What's your workspace like?**
 
@@ -34,7 +35,7 @@ Do two most important things in the early morning and creating your own rules of
 
 **What's your favorite to-do list manager?**
 
-I use Evernote for all sort of writing ideas and keeping track of todolist everyday.
+I use <a href="https://evernote.com/" target="_blank">Evernote</a> for all sort of writing ideas and keeping track of todolist everyday.
 
 **Besides your phone and computer, what gadget can't you live without?**
 
@@ -50,7 +51,7 @@ I listen to different kind of music and change it frequently. Sometimes I listen
 
 **What are you currently reading?**
 
-The Art of Start by Guy Kawasaki
+<a href="http://www.amazon.com/exec/obidos/ASIN/1591840562/guykawasakico-20/002-9226153-0475221" target="_blank">The Art of Start by Guy Kawasaki.</a>
 
 **What's your sleep routine like?**
 
@@ -62,4 +63,4 @@ Too much too list. But I can list one, it would be : "Big ideas start small"
 
 **Is there anything else you'd like to ask**
 
-Schedule your time, and listen to [The four hours work week by Tim Ferris](http://www.youtube.com/watch?v=E8XCO9vQtk0) and it will change your life.
+Schedule your time, and listen to <a href="http://www.youtube.com/watch?v=E8XCO9vQtk0" target="_blank">The four hours work week by Tim Ferris</a> and it will change your life.

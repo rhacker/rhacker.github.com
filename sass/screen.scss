@@ -1,9 +1,12 @@
 @import "compass";
+@import 'modular-scale';
+
 @import "settings";
+@import "foundation";
 
 @import "custom/color";
 @import "custom/fonts";
 
-@import "foundation";
-
 @import "parts";
+@import "partials";
+@import "plugins";
