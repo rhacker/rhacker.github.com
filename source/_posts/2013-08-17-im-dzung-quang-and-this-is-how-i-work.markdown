@@ -6,6 +6,8 @@ comments: true
 categories: lifehack
 ---
 
+Being inspired by series <a href="http://lifehacker.com/tag/how-i-work" target="_blank">How I Work</a> of Lifehacker, I create one about myself :)
+
 <img src="http://i.imgur.com/JXzbUup.jpg" alt="Dzung" />
 
 **Location:** Odense, Denmark
@@ -30,8 +32,7 @@ Anywhere else: I put important files on Dropbox, docs on Google Docs and dotFile
 
 **What's your best life hack?**
 
-Do two most important things in the early morning and creating your own rules of living.
-
+Do two most important things in the early morning and creating your own rules of living. And playing when people work and working when people sleep.
 
 **What's your favorite to-do list manager?**
 
@@ -57,9 +58,14 @@ I listen to different kind of music and change it frequently. Sometimes I listen
 
 It depends, I can do very late night. But I did have a good sleep routine of sleeping at 11 and waking up at 5. It was enjoyable and I'm working on recreating this good habit of mine.
 
+
 **What's the best advice you've ever received?**
 
-Too much too list. But I can list one, it would be : "Big ideas start small"
+Too much to list. But if I list one, it would be : "Big ideas start small"
+
+**Fill in the blank: I'd love to see _______ answer these same questions.**
+
+<a href="https://twitter.com/joelgascoigne" target="_blank">Joel Gascoigne</a>, <a href="https://twitter.com/GordonRamsay">Gordon Ramsay</a> and <a href="https://twitter.com/GuyKawasaki">Guy Kawasaki</a>
 
 **Is there anything else you'd like to ask**
 
