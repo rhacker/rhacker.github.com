@@ -1,6 +1,8 @@
 <script type="text/javascript" src="//cdn.jsdelivr.net/flexslider/2.1/jquery.flexslider-min.js"></script>
 <script type="text/javascript" src="//cdn.jsdelivr.net/prism/0.1/prism.full.min.js"></script>
 <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.sidr/1.1.1/jquery.sidr.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.lazyload/1.8.4/jquery.lazyload.min.js"></script>
+
 
 <script>
   $(document).ready(function() {
@@ -17,5 +19,7 @@
     $('#sidr').click(function(event){
       event.stopPropagation();
     });
+
+    $("img.lazy").lazyload();
   });
 </script>

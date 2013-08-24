@@ -1,0 +1,10 @@
+#photo-container {
+  background: url(http://www.aerophile.com/wp-content/themes/blankslate/img/world_map.jpg);
+  background-size: cover;
+  padding: 20px 0;
+  min-height: 600px;
+
+  .th-custom {
+    @include box-shadow(0 10px 6px -6px #777);
+  }
+}
