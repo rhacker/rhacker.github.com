@@ -1,11 +1,6 @@
 ---
 layout: page
 title: "photos"
-<<<<<<< HEAD
-date: 2013-08-24 12:56
-=======
-date: 2013-08-22 10:45
->>>>>>> photos
 comments: true
 sharing: true
 footer: true
