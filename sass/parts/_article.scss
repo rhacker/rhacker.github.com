@@ -12,6 +12,7 @@ article{
   }
 
   & > .content {
+    font-family: 'Vollkorn', serif;
     position: relative;
     width: 80%;
     max-width: 800px;
@@ -25,9 +26,8 @@ article{
       word-wrap: break-word;
 
       & > h2 {
-        text-transform: uppercase;
-        font-size: 110%;
-        letter-spacing: 3px;
+        font-family: 'Vollkorn', serif;
+        font-size: 150%;
         float: left;
         a {
           color: black;
